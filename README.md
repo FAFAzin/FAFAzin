@@ -1,4 +1,4 @@
-### What´s up!! Welcome to my GitHub, my name´s Josafá! 👋
+### Hello!! Welcome to my GitHub, my name´s Josafá! 👋
 
 <div align="center">
   <a href="https://github.com/FAFAzin">
