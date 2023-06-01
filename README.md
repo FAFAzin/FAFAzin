@@ -1,10 +1,6 @@
 ### Hello!! Welcome to my GitHub, my name´s Josafá! 👋
 
-<div align="center">
-  <a href="https://github.com/FAFAzin">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FAFAzin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAFAzin&layout=compact&langs_count=7&theme=dark"/>
-  
+<div>
 <div style="display: inline_block"><br>
   <img align="left" alt="fafa-Js" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="fafa-HTML" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
