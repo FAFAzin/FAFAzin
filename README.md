@@ -1,15 +1,13 @@
-<div>
-  <h1>Olá, me chamo Josafá</h1>
-  <h2>Seja bem vindo ao meu portifólio</h2>
-  <p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade VINCIT, tenho 23 anos e sou Carioca. 
-Atualmente estudando Desenvolvimento Frontend</p>
-</div>
-<div>
-  <h1>Habilidades</h1>
-  <p>Frontend - Javascript, HTML, CSS, React e JSX.</p>             
-  <p>Backend - Python, SQL, MySQL.</p>
-</div>
-<div>
+## Olá, me chamo Josafá
+### Seja bem vindo ao meu portifólio
+Estudante de Análise e Desenvolvimento de Sistemas pela faculdade VINCIT, tenho 23 anos e sou Carioca. 
+Através de livros técnicos, tenho expandido meus conhecimentos em desenvolvimento de softwares
+Meu perfil aqui não é tão bonito, mas estou melhorando isso, dè uma olhada em meus projetos, talvez goste de algum, em breve, estará cheio deles.
+
+## Habilidades</h1>
+### Frontend - Javascript, HTML, CSS, React e JSX            
+### Backend - Python, NodeJS, SQL, MySQL
+
 <div style="display: inline_block"><br>
   <img align="left" alt="fafa-Js" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="fafa-HTML" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
